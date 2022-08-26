@@ -1,0 +1,773 @@
+C:\ADV.NET\PL\PL\bin\PL.dll.config
+C:\ADV.NET\PL\PL\bin\PL.dll
+C:\ADV.NET\PL\PL\bin\PL.pdb
+C:\ADV.NET\PL\PL\bin\roslyn\csc.exe
+C:\ADV.NET\PL\PL\bin\roslyn\csc.exe.config
+C:\ADV.NET\PL\PL\bin\roslyn\csc.rsp
+C:\ADV.NET\PL\PL\bin\roslyn\csi.exe
+C:\ADV.NET\PL\PL\bin\roslyn\csi.exe.config
+C:\ADV.NET\PL\PL\bin\roslyn\csi.rsp
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ADV.NET\PL\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.AppContext.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Console.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.IO.Compression.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Net.Http.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Net.Sockets.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.ValueTuple.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Xml.XPath.dll
+C:\ADV.NET\PL\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ADV.NET\PL\PL\bin\roslyn\vbc.exe
+C:\ADV.NET\PL\PL\bin\roslyn\vbc.exe.config
+C:\ADV.NET\PL\PL\bin\roslyn\vbc.rsp
+C:\ADV.NET\PL\PL\bin\roslyn\VBCSCompiler.exe
+C:\ADV.NET\PL\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\ADV.NET\PL\PL\bin\EntityFramework.dll
+C:\ADV.NET\PL\PL\bin\EntityFramework.SqlServer.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ADV.NET\PL\PL\bin\Newtonsoft.Json.dll
+C:\ADV.NET\PL\PL\bin\System.Net.Http.Formatting.dll
+C:\ADV.NET\PL\PL\bin\System.Web.Http.dll
+C:\ADV.NET\PL\PL\bin\System.Web.Http.WebHost.dll
+C:\ADV.NET\PL\PL\bin\EntityFramework.xml
+C:\ADV.NET\PL\PL\bin\EntityFramework.SqlServer.xml
+C:\ADV.NET\PL\PL\bin\Newtonsoft.Json.xml
+C:\ADV.NET\PL\PL\bin\System.Net.Http.Formatting.xml
+C:\ADV.NET\PL\PL\bin\System.Web.Http.xml
+C:\ADV.NET\PL\PL\bin\System.Web.Http.WebHost.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ADV.NET\PL\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\ADV.NET\PL\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\ADV.NET\PL\PL\obj\Debug\PL.csproj.CopyComplete
+C:\ADV.NET\PL\PL\obj\Debug\PL.dll
+C:\ADV.NET\PL\PL\obj\Debug\PL.pdb
+C:\ADV.NET\PL\PL\bin\AutoMapper.dll
+C:\ADV.NET\PL\PL\bin\AutoMapper.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Bcl.HashCode.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Data.SqlClient.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Configuration.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Logging.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Options.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Primitives.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Identity.Client.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Logging.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Protocols.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ADV.NET\PL\PL\bin\System.Buffers.dll
+C:\ADV.NET\PL\PL\bin\System.Collections.Immutable.dll
+C:\ADV.NET\PL\PL\bin\System.ComponentModel.Annotations.dll
+C:\ADV.NET\PL\PL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\PL\PL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ADV.NET\PL\PL\bin\System.Memory.dll
+C:\ADV.NET\PL\PL\bin\System.Numerics.Vectors.dll
+C:\ADV.NET\PL\PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\ADV.NET\PL\PL\bin\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\PL\PL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Bcl.HashCode.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Data.SqlClient.pdb
+C:\ADV.NET\PL\PL\bin\Microsoft.Data.SqlClient.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Configuration.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Logging.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Options.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Extensions.Primitives.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.Identity.Client.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Logging.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Protocols.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\ADV.NET\PL\PL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ADV.NET\PL\PL\bin\System.Buffers.xml
+C:\ADV.NET\PL\PL\bin\System.Collections.Immutable.xml
+C:\ADV.NET\PL\PL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ADV.NET\PL\PL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ADV.NET\PL\PL\bin\System.Memory.xml
+C:\ADV.NET\PL\PL\bin\System.Numerics.Vectors.xml
+C:\ADV.NET\PL\PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\ADV.NET\PL\PL\bin\System.Threading.Tasks.Extensions.xml
+C:\ADV.NET\PL\PL\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL\PL\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\PL.dll.config
+C:\ADV.NET\PL - Copy\PL\bin\PL.dll
+C:\ADV.NET\PL - Copy\PL\bin\PL.pdb
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\csc.exe
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\csc.exe.config
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\csc.rsp
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\csi.exe
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\csi.exe.config
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\csi.rsp
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.AppContext.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Console.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.IO.Compression.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Net.Http.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Net.Sockets.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.ValueTuple.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Xml.XPath.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\vbc.exe
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\vbc.exe.config
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\vbc.rsp
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\VBCSCompiler.exe
+C:\ADV.NET\PL - Copy\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\ADV.NET\PL - Copy\PL\bin\AutoMapper.dll
+C:\ADV.NET\PL - Copy\PL\bin\BLL.dll
+C:\ADV.NET\PL - Copy\PL\bin\EntityFramework.dll
+C:\ADV.NET\PL - Copy\PL\bin\EntityFramework.SqlServer.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Bcl.HashCode.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Data.SqlClient.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Configuration.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Logging.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Options.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Primitives.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Identity.Client.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Logging.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Protocols.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ADV.NET\PL - Copy\PL\bin\Newtonsoft.Json.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Buffers.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Collections.Immutable.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.ComponentModel.Annotations.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Memory.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Net.Http.Formatting.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Numerics.Vectors.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Web.Http.dll
+C:\ADV.NET\PL - Copy\PL\bin\System.Web.Http.WebHost.dll
+C:\ADV.NET\PL - Copy\PL\bin\DAL.dll
+C:\ADV.NET\PL - Copy\PL\bin\BLL.pdb
+C:\ADV.NET\PL - Copy\PL\bin\BLL.dll.config
+C:\ADV.NET\PL - Copy\PL\bin\AutoMapper.xml
+C:\ADV.NET\PL - Copy\PL\bin\EntityFramework.xml
+C:\ADV.NET\PL - Copy\PL\bin\EntityFramework.SqlServer.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Bcl.HashCode.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Data.SqlClient.pdb
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Data.SqlClient.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Configuration.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Logging.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Options.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Extensions.Primitives.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.Identity.Client.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Logging.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Protocols.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Buffers.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Collections.Immutable.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Memory.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Numerics.Vectors.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Threading.Tasks.Extensions.xml
+C:\ADV.NET\PL - Copy\PL\bin\Newtonsoft.Json.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Net.Http.Formatting.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Web.Http.xml
+C:\ADV.NET\PL - Copy\PL\bin\System.Web.Http.WebHost.xml
+C:\ADV.NET\PL - Copy\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ADV.NET\PL - Copy\PL\bin\DAL.pdb
+C:\ADV.NET\PL - Copy\PL\bin\DAL.dll.config
+C:\ADV.NET\PL - Copy\PL\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\PL - Copy\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\ADV.NET\PL - Copy\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\ADV.NET\PL - Copy\PL\obj\Debug\PL.csproj.CopyComplete
+C:\ADV.NET\PL - Copy\PL\obj\Debug\PL.dll
+C:\ADV.NET\PL - Copy\PL\obj\Debug\PL.pdb
+C:\ADV.NET\FT Lab Peformance\PL\bin\PL.dll.config
+C:\ADV.NET\FT Lab Peformance\PL\bin\PL.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\PL.pdb
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\csc.exe
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\csc.exe.config
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\csc.rsp
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\csi.exe
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\csi.exe.config
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\csi.rsp
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.AppContext.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Console.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.IO.Compression.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Net.Http.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Net.Sockets.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.ValueTuple.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Xml.XPath.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\vbc.exe
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\vbc.exe.config
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\vbc.rsp
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\VBCSCompiler.exe
+C:\ADV.NET\FT Lab Peformance\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\ADV.NET\FT Lab Peformance\PL\bin\AutoMapper.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\BLL.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\EntityFramework.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\EntityFramework.SqlServer.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Bcl.HashCode.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Data.SqlClient.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Configuration.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Logging.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Options.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Primitives.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Identity.Client.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Logging.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Protocols.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\Newtonsoft.Json.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Buffers.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Collections.Immutable.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.ComponentModel.Annotations.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Memory.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Net.Http.Formatting.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Numerics.Vectors.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Web.Http.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Web.Http.WebHost.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\DAL.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\BLL.pdb
+C:\ADV.NET\FT Lab Peformance\PL\bin\BLL.dll.config
+C:\ADV.NET\FT Lab Peformance\PL\bin\AutoMapper.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\EntityFramework.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\EntityFramework.SqlServer.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Bcl.HashCode.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Data.SqlClient.pdb
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Data.SqlClient.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Configuration.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Logging.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Options.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Extensions.Primitives.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.Identity.Client.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Logging.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Protocols.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Buffers.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Collections.Immutable.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Memory.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Numerics.Vectors.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Threading.Tasks.Extensions.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Newtonsoft.Json.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Net.Http.Formatting.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Web.Http.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\System.Web.Http.WebHost.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ADV.NET\FT Lab Peformance\PL\bin\DAL.pdb
+C:\ADV.NET\FT Lab Peformance\PL\bin\DAL.dll.config
+C:\ADV.NET\FT Lab Peformance\PL\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Lab Peformance\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\ADV.NET\FT Lab Peformance\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\ADV.NET\FT Lab Peformance\PL\obj\Debug\PL.csproj.CopyComplete
+C:\ADV.NET\FT Lab Peformance\PL\obj\Debug\PL.dll
+C:\ADV.NET\FT Lab Peformance\PL\obj\Debug\PL.pdb
+C:\ADV.NET\FT Project\PL\bin\PL.dll.config
+C:\ADV.NET\FT Project\PL\bin\PL.dll
+C:\ADV.NET\FT Project\PL\bin\PL.pdb
+C:\ADV.NET\FT Project\PL\bin\roslyn\csc.exe
+C:\ADV.NET\FT Project\PL\bin\roslyn\csc.exe.config
+C:\ADV.NET\FT Project\PL\bin\roslyn\csc.rsp
+C:\ADV.NET\FT Project\PL\bin\roslyn\csi.exe
+C:\ADV.NET\FT Project\PL\bin\roslyn\csi.exe.config
+C:\ADV.NET\FT Project\PL\bin\roslyn\csi.rsp
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ADV.NET\FT Project\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.AppContext.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Console.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.IO.Compression.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Net.Http.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Net.Sockets.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.ValueTuple.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Xml.XPath.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ADV.NET\FT Project\PL\bin\roslyn\vbc.exe
+C:\ADV.NET\FT Project\PL\bin\roslyn\vbc.exe.config
+C:\ADV.NET\FT Project\PL\bin\roslyn\vbc.rsp
+C:\ADV.NET\FT Project\PL\bin\roslyn\VBCSCompiler.exe
+C:\ADV.NET\FT Project\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\ADV.NET\FT Project\PL\bin\AutoMapper.dll
+C:\ADV.NET\FT Project\PL\bin\BEL.dll
+C:\ADV.NET\FT Project\PL\bin\BLL.dll
+C:\ADV.NET\FT Project\PL\bin\EntityFramework.dll
+C:\ADV.NET\FT Project\PL\bin\EntityFramework.SqlServer.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Bcl.HashCode.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Data.SqlClient.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Configuration.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Logging.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Options.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Primitives.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Identity.Client.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Logging.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Protocols.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ADV.NET\FT Project\PL\bin\Newtonsoft.Json.dll
+C:\ADV.NET\FT Project\PL\bin\System.Buffers.dll
+C:\ADV.NET\FT Project\PL\bin\System.Collections.Immutable.dll
+C:\ADV.NET\FT Project\PL\bin\System.ComponentModel.Annotations.dll
+C:\ADV.NET\FT Project\PL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\FT Project\PL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ADV.NET\FT Project\PL\bin\System.Memory.dll
+C:\ADV.NET\FT Project\PL\bin\System.Net.Http.Formatting.dll
+C:\ADV.NET\FT Project\PL\bin\System.Numerics.Vectors.dll
+C:\ADV.NET\FT Project\PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\ADV.NET\FT Project\PL\bin\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\FT Project\PL\bin\System.Web.Http.dll
+C:\ADV.NET\FT Project\PL\bin\System.Web.Http.WebHost.dll
+C:\ADV.NET\FT Project\PL\bin\DAL.dll
+C:\ADV.NET\FT Project\PL\bin\BEL.pdb
+C:\ADV.NET\FT Project\PL\bin\BLL.pdb
+C:\ADV.NET\FT Project\PL\bin\BLL.dll.config
+C:\ADV.NET\FT Project\PL\bin\AutoMapper.xml
+C:\ADV.NET\FT Project\PL\bin\EntityFramework.xml
+C:\ADV.NET\FT Project\PL\bin\EntityFramework.SqlServer.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Bcl.HashCode.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Data.SqlClient.pdb
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Data.SqlClient.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Configuration.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Logging.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Options.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Extensions.Primitives.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.Identity.Client.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Logging.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Protocols.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ADV.NET\FT Project\PL\bin\System.Buffers.xml
+C:\ADV.NET\FT Project\PL\bin\System.Collections.Immutable.xml
+C:\ADV.NET\FT Project\PL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ADV.NET\FT Project\PL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ADV.NET\FT Project\PL\bin\System.Memory.xml
+C:\ADV.NET\FT Project\PL\bin\System.Numerics.Vectors.xml
+C:\ADV.NET\FT Project\PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\ADV.NET\FT Project\PL\bin\System.Threading.Tasks.Extensions.xml
+C:\ADV.NET\FT Project\PL\bin\Newtonsoft.Json.xml
+C:\ADV.NET\FT Project\PL\bin\System.Net.Http.Formatting.xml
+C:\ADV.NET\FT Project\PL\bin\System.Web.Http.xml
+C:\ADV.NET\FT Project\PL\bin\System.Web.Http.WebHost.xml
+C:\ADV.NET\FT Project\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ADV.NET\FT Project\PL\bin\DAL.pdb
+C:\ADV.NET\FT Project\PL\bin\DAL.dll.config
+C:\ADV.NET\FT Project\PL\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\ADV.NET\FT Project\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\ADV.NET\FT Project\PL\obj\Debug\PL.csproj.CopyComplete
+C:\ADV.NET\FT Project\PL\obj\Debug\PL.dll
+C:\ADV.NET\FT Project\PL\obj\Debug\PL.pdb
+C:\ADV.NET\FT Project - Copy\PL\bin\PL.dll.config
+C:\ADV.NET\FT Project - Copy\PL\bin\PL.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\PL.pdb
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\csc.exe
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\csc.exe.config
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\csc.rsp
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\csi.exe
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\csi.exe.config
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\csi.rsp
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.AppContext.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Console.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.IO.Compression.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.IO.FileSystem.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Net.Http.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Net.Sockets.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.ValueTuple.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Xml.XPath.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\vbc.exe
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\vbc.exe.config
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\vbc.rsp
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\VBCSCompiler.exe
+C:\ADV.NET\FT Project - Copy\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\ADV.NET\FT Project - Copy\PL\bin\AutoMapper.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\BEL.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\BLL.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\EntityFramework.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\EntityFramework.SqlServer.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Bcl.HashCode.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Data.SqlClient.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Configuration.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Logging.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Options.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Primitives.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Identity.Client.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Logging.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Protocols.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\Newtonsoft.Json.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Buffers.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Collections.Immutable.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.ComponentModel.Annotations.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Memory.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Net.Http.Formatting.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Numerics.Vectors.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Threading.Tasks.Extensions.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Web.Http.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Web.Http.WebHost.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\DAL.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\BEL.pdb
+C:\ADV.NET\FT Project - Copy\PL\bin\BLL.pdb
+C:\ADV.NET\FT Project - Copy\PL\bin\BLL.dll.config
+C:\ADV.NET\FT Project - Copy\PL\bin\AutoMapper.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\EntityFramework.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\EntityFramework.SqlServer.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Bcl.HashCode.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Data.SqlClient.pdb
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Data.SqlClient.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Configuration.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Logging.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Options.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Extensions.Primitives.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.Identity.Client.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Logging.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Protocols.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Buffers.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Collections.Immutable.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Memory.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Numerics.Vectors.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Threading.Tasks.Extensions.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Newtonsoft.Json.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Net.Http.Formatting.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Web.Http.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\System.Web.Http.WebHost.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ADV.NET\FT Project - Copy\PL\bin\DAL.pdb
+C:\ADV.NET\FT Project - Copy\PL\bin\DAL.dll.config
+C:\ADV.NET\FT Project - Copy\PL\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\ADV.NET\FT Project - Copy\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\ADV.NET\FT Project - Copy\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\ADV.NET\FT Project - Copy\PL\obj\Debug\PL.csproj.CopyComplete
+C:\ADV.NET\FT Project - Copy\PL\obj\Debug\PL.dll
+C:\ADV.NET\FT Project - Copy\PL\obj\Debug\PL.pdb

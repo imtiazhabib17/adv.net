@@ -1,0 +1,41 @@
+﻿@model List<Demo_AOwn.Donar>
+@{
+    ViewBag.Title = "DonarList";
+}
+
+<h2 align="center">Donor List</h2>
+@Html.ActionLink("Add New", "Donar", "Donar", new { @class="btn btn-success" })
+<table class="table table-bordered">
+    <tr>
+        
+        <td><b>Name</b></td>
+        <td><b>Phone</b></td>
+        <td><b>Email</b></td>
+        <td><b>Amount</b></td>
+        <td><b>Address</b></td>
+        <td><b>Comments</b></td>
+        <td><b>Action</b></td>
+      
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Phone</td>
+            <td>@item.Email</td>
+            <td>@item.Amount</td>
+            <td>@item.Address</td>
+            <td>@item.Comment</td>
+            <td>
+                <a href="@Url.Action("Donar", new {item.ID,item.Name,item.Phone,item.Email,item.Amount,item.Address,item.Comment })" class="btn btn-primary">Edit</a>
+                <a href="@Url.Action("Delete", new { item.ID})" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div align="center">
+    <hr />
+    <h3 style="color:chartreuse"><b>Total Donation collected- @Model.Sum(x => x.Amount) Taka</b>
+
+</div>
+

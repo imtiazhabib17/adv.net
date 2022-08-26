@@ -1,0 +1,41 @@
+﻿@model Demo_AOwn.Receiver
+@{
+    ViewBag.Title = "Receiver";
+}
+<style>
+    .error {
+        color: red;
+    }
+</style>
+<h2 align="center">Receiver Registration</h2>
+@using (Html.BeginForm("AddReceiver","Receiver",FormMethod.Post))
+            {
+                <div class="container">
+                    <div class="form-group">
+                        <label>Name</label>
+                        @Html.ValidationMessageFor(x => x.Name, "", new { @class = "error" })
+                        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Phone</label>
+                        @Html.ValidationMessageFor(x => x.Phone, "", new { @class = "error" })
+                        @Html.TextBoxFor(x => x.Phone, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Request Amount</label>
+                        @Html.ValidationMessageFor(x => x.RAmount, "", new { @class = "error" })
+                        @Html.TextBoxFor(x => x.RAmount, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label>Comment</label>
+                        @Html.ValidationMessageFor(x => x.Comment, "", new { @class = "error" })
+                        @Html.TextBoxFor(x => x.Comment, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-success">Submit</button>
+                        <button type="reset" class="btn btn-danger">Reset</button>
+                    </div>
+
+                </div>
+            }
+

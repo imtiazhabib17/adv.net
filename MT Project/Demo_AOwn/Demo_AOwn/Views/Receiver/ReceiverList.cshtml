@@ -1,0 +1,31 @@
+﻿@model List<Demo_AOwn.Receiver>
+@{
+    ViewBag.Title = "ReceiverList";
+}
+
+<h2 align="center">Remaining Receivers</h2>
+@Html.ActionLink("Add New", "Receiver", "Receiver", new { @class = "btn btn-success" })
+<table class="table table-bordered">
+    <tr>
+
+        <td><b>Name</b></td>
+        <td><b>Phone</b></td>
+        <td><b>Requested Amount</b></td>
+        <td><b>Comments</b></td>
+        <td><b>Action</b></td>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Phone</td>
+            <td>@item.RAmount</td>
+            <td>@item.Comment</td>
+            <td>
+                <a href="@Url.Action("Delete", new { item.ID})" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Demo_AOwn.Receiver>
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2 align="center">Whole Opreation Status Board</h2>
+<hr />
+<table class="table table-bordered">
+    <tr>
+        <td><b>Contant</b></td>
+        <td><b>Amount/Person</b></td>
+        <td><b>Actions</b></td>
+    </tr>
+    <tr>
+        <td><b>Number of Donor</b></td>
+        <td><b> @ViewBag.use person</b></td>
+        <td>@Html.ActionLink("View Details", "DonarList", "Donar", null, new { @class = "btn btn-warning" })</td>
+    </tr>
+    <tr>
+        <td><b>Number of Receiver</b></td>
+        <td><b> @ViewBag.user2 person</b></td>
+        <td>@Html.ActionLink("View Details", "ReceiverList", "Receiver", null, new { @class = "btn btn-warning" })</td>
+    </tr>
+    <tr>
+        <td><b>Grand Amount of Donation</b></td>
+        <td><b> @ViewBag.Alpha24 Taka</b></td>
+        <td>@Html.ActionLink("View Details", "DonarList", "Donar", null, new { @class = "btn btn-danger" })</td>
+    </tr>
+    <tr>
+        <td><b>Remaining of Collected Donation</b></td>
+        <td><b> @ViewBag.Alpha Taka</b></td>
+
+    </tr>
+    <tr>
+        <td><b>Remaining Total Requested Amount </b></td>
+        <td><b>  @ViewBag.alpha2 Taka</b></td>
+        <td>@Html.ActionLink("View Details", "ReceiverList", "Receiver", null, new { @class = "btn btn-danger" })</td>
+    </tr>
+    <tr>
+        <td><b>Available Balance </b></td>
+        <td><b> @ViewBag.msg </b></td>
+    </tr>
+    <tr>
+        <td><b>Donation Status </b></td>
+        <td><b>  @ViewBag.msg4 </b></td>
+    </tr>
+</table>
+<hr />
+<h3 align="center">Pending Receiver Request List</h3>
+<hr />
+<table class="table table-bordered">
+    <tr>
+
+        <td><b>Name</b></td>
+        <td><b>Phone</b></td>
+        <td><b>Requested Amount</b></td>
+        <td><b>Comments</b></td>
+        <td><b>Action</b></td>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Phone</td>
+            <td>@item.RAmount</td>
+            <td>@item.Comment</td>
+            <td>
+                @Html.ActionLink("Approve Donate", "Done", new { id = item.ID }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Reject", "Remove", new { id = item.ID }, new { @class = "btn btn-danger" })
+
+            </td>
+        </tr>
+    }
+</table>

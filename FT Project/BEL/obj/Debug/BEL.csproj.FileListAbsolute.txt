@@ -1,0 +1,12 @@
+C:\ADV.NET\FT Project\BEL\bin\Debug\BEL.dll
+C:\ADV.NET\FT Project\BEL\bin\Debug\BEL.pdb
+C:\ADV.NET\FT Project\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\ADV.NET\FT Project\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\ADV.NET\FT Project\BEL\obj\Debug\BEL.dll
+C:\ADV.NET\FT Project\BEL\obj\Debug\BEL.pdb
+C:\ADV.NET\FT Project - Copy\BEL\bin\Debug\BEL.dll
+C:\ADV.NET\FT Project - Copy\BEL\bin\Debug\BEL.pdb
+C:\ADV.NET\FT Project - Copy\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\ADV.NET\FT Project - Copy\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\ADV.NET\FT Project - Copy\BEL\obj\Debug\BEL.dll
+C:\ADV.NET\FT Project - Copy\BEL\obj\Debug\BEL.pdb
